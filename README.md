@@ -1,2 +1,2 @@
 # openmv-lapan
-My internship project in Pustekroket LAPAN
+This is our internship project in Pustekroket LAPAN. We 
